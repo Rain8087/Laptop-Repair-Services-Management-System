@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin\AdminHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\FrmChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\FrmCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\FrmUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\RegisterStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\ServiceReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Receptionist\AcceptPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Receptionist\ChooseRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Receptionist\Receipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Receptionist\ReceptionistHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Receptionist\RegisterCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Technician\TechnicianHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\TotalIncome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Technician\ViewRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
